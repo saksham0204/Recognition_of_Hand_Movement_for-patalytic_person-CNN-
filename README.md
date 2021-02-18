@@ -1,0 +1,1 @@
+# Recognition_of_Hand_Movement_for-patalytic_person-CNN-
